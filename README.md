@@ -30,9 +30,7 @@
     <img aling= "center" alt= "nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kendylopes&bg_color=0d0c0d&color=2b2843&line=402259&point=15741c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kendylopes&bg_color=141414&color=716c99&line=402259&point=a9d1ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Amante de tecnologia, gosto muito de resolver problemas e descobrir coisas novas..!!! 
 
