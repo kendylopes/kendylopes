@@ -32,5 +32,16 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kendylopes&bg_color=141414&color=716c99&line=402259&point=a9d1ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 Amante de tecnologia, gosto muito de resolver problemas e descobrir coisas novas..!!! 
+##
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
+
+
+
 
