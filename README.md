@@ -4,7 +4,7 @@
 )](https://www.linkedin.com/in/kennedylopes/)[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/kendylopes/)[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kennedylopes.silv/)
 
-![Kennedy Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=kendylopes&show_icons=true&theme=dracula)
+
 
 ### Tecnologias que eu uso no meu dia...
 
