@@ -8,6 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # ADIÇÃO IMPORTANTE: Dá permissão para a automação escrever no repositório
+    permissions:
+      contents: write
+
     steps:
       # Faz o checkout do código do teu repositório
       - uses: actions/checkout@v4
