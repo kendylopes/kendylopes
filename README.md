@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2 align="center">Minhas Contribuições Animadas</h2>
+<h2 align="center">Animação das Contribuições</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kendylopes/kendylopes/main/dist/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições">
+  <img src="https://raw.githubusercontent.com/kendylopes/kendylopes/main/dist/github-contribution-grid-snake.svg" alt="Animação das Contribuições do GitHub">
 </p>
