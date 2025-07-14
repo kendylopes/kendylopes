@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  Um desenvolvedor apaixonado por criar soluções inovadoras e aprender continuamente. <br>
-  Abaixo estão algumas das minhas estatísticas e tecnologias favoritas!
+  👨‍💻 Um desenvolvedor apaixonado por criar soluções inovadoras e aprender continuamente. <br>
+  🚀Abaixo estão algumas das minhas estatísticas e tecnologias favoritas!
 </p>
 
 <div align="center">
