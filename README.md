@@ -50,3 +50,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+<h2 align="center">Minhas Contribuições Animadas</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kendylopes/kendylopes/main/dist/github-contribution-grid-snake-dark.svg" alt="Animação das Contribuições">
+</p>
