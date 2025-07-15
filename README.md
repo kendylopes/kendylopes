@@ -61,6 +61,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<h2 >Visit Counter</h2>
+
+<div align="center">
+  
+   ![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+  
+</div>
 <h2 >Animação das Contribuições</h2>
 <p align="center">
  
