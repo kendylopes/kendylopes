@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2 align="center">Animação das Contribuições</h2>
+<h2 >Animação das Contribuições</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kendylopes/kendylopes/main/dist/github-contribution-grid-snake.svg" alt="Animação das Contribuições do GitHub">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kendylopes/kendylopes/output/pacman-contribution-graph.svg">
 </p>
