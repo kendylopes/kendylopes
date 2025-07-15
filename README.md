@@ -12,24 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div id="user-content-toc">
-  <h1 align="center">Olá, eu sou o Kennedy Lopes 👋</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<p align="center">
+
+<div id="user-content-toc" display="flex">
+  <h1 >Olá, eu sou o Kennedy Lopes 👋</h1>
+</div>
+
+
+<p >
   👨‍💻 Um desenvolvedor apaixonado por criar soluções inovadoras e aprender continuamente. <br>
   🚀Abaixo estão algumas das minhas estatísticas e tecnologias favoritas!
 </p>
 
-<div align="center">
-  <a href="https://github.com/kendylopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kendylopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendylopes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<h2 align="center">Ferramentas e Tecnologias</h2>
-<p align="center">
+<h2>Ferramentas e Tecnologias</h2>
+<p >
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -38,8 +37,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<h2 align="center">Conecte-se comigo</h2>
-<p align="center">
+
+
+<div >
+  <a href="https://github.com/kendylopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kendylopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendylopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+</div>
+
+
+<h2 >Conecte-se comigo</h2>
+<p >
   <a href="https://linkedin.com/in/kennedylopes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
