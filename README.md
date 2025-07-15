@@ -1,4 +1,5 @@
 <!--
+versão clara do pac man => ![Pac-Man Graph](https://raw.githubusercontent.com/kendylopes/kendylopes/output/pacman-contribution-graph.svg)
 **kendylopes/kendylopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -62,5 +63,7 @@ Here are some ideas to get you started:
 
 <h2 >Animação das Contribuições</h2>
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kendylopes/kendylopes/output/pacman-contribution-graph.svg">
+ 
+  ![Pac-Man Graph Dark](https://raw.githubusercontent.com/kendylopes/kendylopes/output/pacman-contribution-graph-dark.svg)
+  
 </p>
